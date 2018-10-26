@@ -1,0 +1,15 @@
+{
+  "name": "forest-cyoa",
+  "version": "1.0.0",
+  "description": "This is a sample of how a choose your own adventure can be made",
+  "main": "cyoa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk.js": "0.0.5",
+    "readline-sync": "^1.4.9"
+  }
+}

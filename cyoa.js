@@ -20,7 +20,7 @@ try {
 }
 
 if (web == undefined) {
-    newLine = '"     n';
+    newLine = '\n';
     console.log("no web");
     var tools = require('./cmdHelper');
     var askQuestion = tools.askQuestion;
